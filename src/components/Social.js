@@ -6,6 +6,9 @@ const Social = () => (
     <a href="https://github.com/amiralies">
       <i className="fa fa-github socialIcons" aria-hidden="true" />
     </a>
+    <a href="https://linkedin.com/in/amiraliesmaeili">
+      <i className="fa fa-linkedin socialIcons" aria-hidden="true" />
+    </a>
     <a href="https://twitter.com/amiraliesz">
       <i className="fa fa-twitter socialIcons" aria-hidden="true" />
     </a>
