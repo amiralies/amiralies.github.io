@@ -14,11 +14,11 @@ body {
 }
 
 .container {
-  background: linear-gradient(150deg, #38ef7d, #007991, #34e89e, #0f3443);
-  background-size: 1000% 1000%;
-  -webkit-animation: bgAnim 50s ease infinite;
-  -moz-animation: bgAnim 50s ease infinite;
-  animation: bgAnim 50s ease infinite;
+  background: linear-gradient(-45deg, #acb6e5, #86fde8);
+  background-size: 400% 400%;
+  -webkit-animation: bgAnim 15s ease infinite;
+  -moz-animation: bgAnim 15s ease infinite;
+  animation: bgAnim 15s ease infinite;
   width: 100%;
   height: 100%;
   display: flex;
@@ -27,19 +27,19 @@ body {
   align-items: center;
 }
 @-webkit-keyframes bgAnim {
-    0%{background-position:24% 0%}
-    50%{background-position:77% 100%}
-    100%{background-position:24% 0%}
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
 }
 @-moz-keyframes bgAnim {
-    0%{background-position:24% 0%}
-    50%{background-position:77% 100%}
-    100%{background-position:24% 0%}
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
 }
 @keyframes bgAnim {
-    0%{background-position:24% 0%}
-    50%{background-position:77% 100%}
-    100%{background-position:24% 0%}
+  0%{background-position:0% 50%}
+  50%{background-position:100% 50%}
+  100%{background-position:0% 50%}
 }
 a, a:visited, a:hover, a:active {
   color: inherit;
