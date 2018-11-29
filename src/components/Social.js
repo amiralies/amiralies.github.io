@@ -15,6 +15,9 @@ const Social = () => (
     <a href="https://instagram.com/amiraliesmaeili1">
       <i className="fa fa-instagram socialIcons" aria-hidden="true" />
     </a>
+    <a href="https://www.last.fm/user/amiralies">
+      <i className="fa fa-lastfm socialIcons" aria-hidden="true" />
+    </a>
   </div>
 );
 
