@@ -36,14 +36,14 @@ a, a:visited, a:hover, a:active {
 
 .social {
   display: flex;
-  width: 60%;
+  width: 90%;
   flex-direction: row;
   color: #FFFFFF;
   font-size: 10vw;
   text-align: center;
   margin: 0;
   margin-top: 20%;
-  justify-content: space-between;
+  justify-content: space-around;
 }
 
 .socialIcons {
