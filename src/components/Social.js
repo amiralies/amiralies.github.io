@@ -18,6 +18,9 @@ const Social = () => (
     <a href="https://www.last.fm/user/amiralies">
       <i className="fa fa-lastfm socialIcons" aria-hidden="true" />
     </a>
+    <a href="resume.pdf">
+      <i className="fa fa-file-text socialIcons" aria-hidden="true" />
+    </a>
   </div>
 );
 
