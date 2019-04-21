@@ -36,10 +36,10 @@ a, a:visited, a:hover, a:active {
 
 .social {
   display: flex;
-  width: 90%;
+  width: 80%;
   flex-direction: row;
   color: #FFFFFF;
-  font-size: 10vw;
+  font-size: 8vw;
   text-align: center;
   margin: 0;
   margin-top: 20%;
@@ -59,6 +59,6 @@ a, a:visited, a:hover, a:active {
 @media only screen
 and (min-width : 1224px) {
   .social {
-    font-size: 5vw;
+    font-size: 4vw;
   }
 }
