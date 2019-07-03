@@ -4,7 +4,7 @@
   "private": true,
   "homepage": "https://amiralies.github.io",
   "dependencies": {
-    "font-awesome": "^4.7.0",
+    "@fortawesome/fontawesome-free": "^5.9.0",
     "gh-pages": "^1.1.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",

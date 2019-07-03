@@ -1,25 +1,25 @@
-import React from 'react';
-import 'font-awesome/css/font-awesome.min.css';
+import React from "react";
+import "@fortawesome/fontawesome-free/css/all.min.css";
 
 const Social = () => (
   <div className="social">
     <a href="https://github.com/amiralies">
-      <i className="fa fa-github socialIcons" aria-hidden="true" />
+      <i className="fab fa-github socialIcons" aria-hidden="true" />
     </a>
     <a href="https://linkedin.com/in/amiraliesmaeili">
-      <i className="fa fa-linkedin socialIcons" aria-hidden="true" />
+      <i className="fab fa-linkedin socialIcons" aria-hidden="true" />
     </a>
     <a href="https://twitter.com/amiraliesz">
-      <i className="fa fa-twitter socialIcons" aria-hidden="true" />
+      <i className="fab fa-twitter socialIcons" aria-hidden="true" />
     </a>
     <a href="https://instagram.com/amiraliesmaeili1">
-      <i className="fa fa-instagram socialIcons" aria-hidden="true" />
+      <i className="fab fa-instagram socialIcons" aria-hidden="true" />
     </a>
     <a href="https://www.last.fm/user/amiralies">
-      <i className="fa fa-lastfm socialIcons" aria-hidden="true" />
+      <i className="fab fa-lastfm socialIcons" aria-hidden="true" />
     </a>
     <a href="resume.pdf">
-      <i className="fa fa-file-text socialIcons" aria-hidden="true" />
+      <i className="fas fa-file-alt socialIcons" aria-hidden="true" />
     </a>
   </div>
 );
