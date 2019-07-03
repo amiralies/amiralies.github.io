@@ -18,6 +18,9 @@ const Social = () => (
     <a href="https://www.last.fm/user/amiralies">
       <i className="fab fa-lastfm socialIcons" aria-hidden="true" />
     </a>
+    <a href="https://medium.com/@siever">
+      <i className="fab fa-medium socialIcons" aria-hidden="true" />
+    </a>
     <a href="resume.pdf">
       <i className="fas fa-file-alt socialIcons" aria-hidden="true" />
     </a>
